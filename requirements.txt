@@ -3,3 +3,4 @@ pexels
 openai==0.28
 flask
 python-dotenv
+pexels-api
