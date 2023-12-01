@@ -1,0 +1,4 @@
+python-pptx
+pexels
+openai==0.28
+flask
