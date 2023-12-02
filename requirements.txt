@@ -4,3 +4,4 @@ openai==0.28
 flask
 python-dotenv
 pexels-api
+flask-cors
